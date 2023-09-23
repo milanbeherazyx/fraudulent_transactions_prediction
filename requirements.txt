@@ -1,0 +1,23 @@
+catboost
+dill
+Flask
+imblearn
+ipykernel
+ipython
+Jinja2
+joblib
+matplotlib
+missingno
+numpy
+openpyxl
+pandas
+plotly
+scikit-learn
+scipy
+seaborn
+statsmodels
+streamlit
+urllib3
+uvicorn
+xgboost
+-e .
